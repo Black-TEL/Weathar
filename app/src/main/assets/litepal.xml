@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="Weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.blacktel.weather.db.City" />
+        <mapping class="com.example.blacktel.weather.db.County" />
+        <mapping class="com.example.blacktel.weather.db.Province" />
+    </list>
+</litepal>
